@@ -71,6 +71,12 @@ Indices encontrados: [0, 2]
 
 ---
 
+En caso de querer ajustar el array, se requiere compilar antes de ejecutar el Main nuevamente
+
+javac Main.java
+
+---
+
 ## 3. Sistema de gestión de bibliotecas
 
 La carpeta 3.Bibliotecas contiene dos carpetas internas; javaBiblioteca y phpBiblioteca, a continuación se listan los detalles relevantes para testear.
@@ -90,6 +96,10 @@ Se aconseja ejecutarse desde navegador en un entorno lampp de su preferencia; el
 java Main
 
 El sistema tiene una interfaz sencilla que permite interactuar con el usuario.
+
+En caso de querer ajustar algo en el código, se requiere compilar antes de ejecutar el Main nuevamente:
+
+javac -encoding UTF-8 Main.java
 
 ---
 
