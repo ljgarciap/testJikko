@@ -49,11 +49,13 @@ Indices encontrados: [2, 4]
 
 #### **También puede ejecutarse desde navegador**
 
+---
+
 ### 2.2.2. Prueba de la Solución en JAVA
 
 El archivo Main.java (y su compilado Main.class) está configurado con un arreglo y objetivo de prueba por defecto:
 
-* **Array:** `[1, 4, 5, 4, 8]`
+* **Array:** `[4, 2, 4, 7, 11, 15]`
   
 * **Objetivo:** `8`
 
