@@ -1,0 +1,17 @@
+{
+    "libros": [
+        {
+            "id": "l1",
+            "titulo": "La historia interminable",
+            "autor": "Michael Ende",
+            "disponible": true
+        }
+    ],
+    "miembros": [
+        {
+            "id": "m1",
+            "nombre": "Pepito Perez",
+            "librosPrestados": []
+        }
+    ]
+}
